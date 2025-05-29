@@ -33,7 +33,7 @@ Quote Sender is a lightweight Python app that grabs a random quote from a JSON f
 
 ### Clone the repo
 
-```bash
+<pre>```bash
 git clone https://github.com/yourusername/quote-sender.git
 cd quote-sender
 ```</pre>
